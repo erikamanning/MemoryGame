@@ -1,0 +1,71 @@
+body{
+
+    display: block;
+    background-color: #1d1f1d;
+}
+
+div div{
+
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 200px;  
+}
+
+h1{
+  color: white;
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 3rem;
+  align-content: center;
+  text-align: center;
+  padding: 20px;
+  font-weight: bold;
+}
+
+button {
+  border-radius: 15px;
+  font-size: 2rem;
+  cursor: pointer;
+  padding: 5px 10px 5px 10px;
+  background-color: #2761f2;
+  color: white;
+  border: .1px solid black;  
+}
+
+button:hover{
+  box-shadow: 5px 5px #888888;
+}
+
+#topRow div {
+
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#bottomRow div {
+
+  border: 1px solid black;
+  border-radius: 25px;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+
+#winsplash{
+
+  padding: 20px;
+}
+
+#buttonPanel{
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
