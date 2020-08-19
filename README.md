@@ -1,3 +1,3 @@
-### MemoryGame
+# MemoryGame
 
 ## by Erika
